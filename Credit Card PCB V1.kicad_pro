@@ -464,12 +464,12 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
-      "idf": "",
+      "gencad": "../../../Desktop/Credit Card PCB V1.cad",
+      "idf": "../../../Desktop/Credit Card PCB V1.emn",
       "netlist": "",
       "specctra_dsn": "",
       "step": "../../../Desktop/Credit Card PCB V1.step",
-      "vrml": ""
+      "vrml": "../../../Desktop/Credit Card PCB V1.wrl"
     },
     "page_layout_descr_file": ""
   },
